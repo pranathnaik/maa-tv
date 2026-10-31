@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="512" height="512">
+  <!-- Maa TV logo: redrawn from the app's adaptive icon (ic_launcher_background + ic_launcher_foreground). -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="108" y2="108" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF8A3D"/><stop offset="0.55" stop-color="#FF5E62"/><stop offset="1" stop-color="#E8407F"/>
+    </linearGradient>
+    <linearGradient id="heart" x1="43" y1="47.8" x2="65" y2="68.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF8A3D"/><stop offset="1" stop-color="#FF4D8D"/>
+    </linearGradient>
+  </defs>
+  <rect width="108" height="108" rx="30" fill="url(#bg)"/>
+  <path d="M47,36L41,27M61,36L67,27" stroke="#fff" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="41" cy="27" r="3" fill="#fff"/><circle cx="67" cy="27" r="3" fill="#fff"/>
+  <path fill="#fff" d="M33,35h42a9,9 0 0 1 9,9v26a9,9 0 0 1 -9,9h-42a9,9 0 0 1 -9,-9v-26a9,9 0 0 1 9,-9z"/>
+  <path fill="#1A1530" d="M35,40h38a6,6 0 0 1 6,6v22a6,6 0 0 1 -6,6h-38a6,6 0 0 1 -6,-6v-22a6,6 0 0 1 6,-6z"/>
+  <path fill="url(#heart)" d="M54,68.5C54,68.5 43,62 43,54.5C43,50.6 45.9,47.8 49.4,47.8C51.6,47.8 53.2,49 54,50.6C54.8,49 56.4,47.8 58.6,47.8C62.1,47.8 65,50.6 65,54.5C65,62 54,68.5 54,68.5Z"/>
+  <path fill="#fff" d="M38,79h7v4a2,2 0 0 1 -2,2h-3a2,2 0 0 1 -2,-2z"/><path fill="#fff" d="M63,79h7v4a2,2 0 0 1 -2,2h-3a2,2 0 0 1 -2,-2z"/>
+</svg>

@@ -1,0 +1,18 @@
+# Build output
+build/
+.gradle/
+.kotlin/
+*.apk
+*.aab
+tools/dump/out/
+
+# Machine-specific and private
+local.properties
+*.jks
+*.keystore
+keystore.properties
+
+# IDE
+.idea/
+*.iml
+.DS_Store

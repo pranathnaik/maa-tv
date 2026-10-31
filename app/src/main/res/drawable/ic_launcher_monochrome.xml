@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Single-colour version for Android's themed icons: TV outline with a heart. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:pathData="M47,36L41,27M61,36L67,27"
+        android:strokeColor="#FFFFFFFF" android:strokeWidth="3.5" android:strokeLineCap="round" />
+    <path android:fillColor="#FFFFFFFF" android:fillType="evenOdd"
+        android:pathData="M33,35h42a9,9 0 0 1 9,9v26a9,9 0 0 1 -9,9h-42a9,9 0 0 1 -9,-9v-26a9,9 0 0 1 9,-9zM35,40h38a6,6 0 0 1 6,6v22a6,6 0 0 1 -6,6h-38a6,6 0 0 1 -6,-6v-22a6,6 0 0 1 6,-6z" />
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M54,68.5C54,68.5 43,62 43,54.5C43,50.6 45.9,47.8 49.4,47.8C51.6,47.8 53.2,49 54,50.6C54.8,49 56.4,47.8 58.6,47.8C62.1,47.8 65,50.6 65,54.5C65,62 54,68.5 54,68.5Z" />
+</vector>
